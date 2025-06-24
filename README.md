@@ -8,6 +8,14 @@ Watch the video 👇
 <img src="https://i.imgur.com/iAV11hG.png" width="800">
 </a>
 
+## Demo
+
+
+https://github.com/user-attachments/assets/b4bac0ee-d190-4dc4-b2ec-85fa6b5f5de0
+
+
+
+
 ## 🔨 Setting up locally
 
 Create virtualenv and install dependencies.
