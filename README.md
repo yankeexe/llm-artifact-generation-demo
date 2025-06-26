@@ -30,6 +30,15 @@ Make sure you have [Ollama](https://ollama.com/) and [Docker](https://www.docker
 
 > 🔧 Configure your [model and model provider](https://github.com/yankeexe/llm-artifact-generation-demo/blob/main/app.py#L106-L113).
 
+
+If you want to use a remote model: 
+
+```sh 
+export OPENAI_API_KEY=your_openai_api_key
+```
+
+Run the application:
+
 ```sh
 make run
 ```
